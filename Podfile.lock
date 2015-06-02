@@ -1,0 +1,19 @@
+PODS:
+  - AHEasing (1.3.1)
+
+DEPENDENCIES:
+  - AHEasing (from `https://github.com/warrenm/AHEasing`)
+
+EXTERNAL SOURCES:
+  AHEasing:
+    :git: https://github.com/warrenm/AHEasing
+
+CHECKOUT OPTIONS:
+  AHEasing:
+    :commit: d36ae14a2fcd97cae0f44bd955264ed154d6ad02
+    :git: https://github.com/warrenm/AHEasing
+
+SPEC CHECKSUMS:
+  AHEasing: a47b04e264eb5f3a058b248d9aac6978257b6c42
+
+COCOAPODS: 0.37.2
